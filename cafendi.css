@@ -920,7 +920,7 @@ body {
 }
 
 .fDrink-card:hover .fPrice {
-  background-color: var(--pure-black) !important;
+  background-color: black !important;
   color: var(--pure-white) !important;
   border-color: var(--pure-black) !important;
 }
@@ -951,3 +951,4 @@ body {
   }
 }
 /* ========================== END PALETTE ========================== */
+
