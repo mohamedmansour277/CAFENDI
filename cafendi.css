@@ -878,8 +878,7 @@ body {
 }
 
 .mCloseBtn:hover {
-  background-color: var(--pure-black);
-  color: var(--pure-white);
+  scale: 1.2;
 }
 
 /* ========================== CARDS SECTION ========================== */
