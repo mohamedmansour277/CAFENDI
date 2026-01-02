@@ -372,11 +372,11 @@
 /*========================= NAVBAR ========================= */
 
 .mNavBar {
-  backdrop-filter: blur(5px);
+  backdrop-filter: blur(4px);
   position: fixed;
   width: 70%;
   height: 30px;
-  background-color: #ffffff0c;
+  background-color: rgba(255, 255, 255, 0.0001);
   border-radius: 40px;
   display: flex;
   align-items: center;
